@@ -1,0 +1,12 @@
+h2{
+    background-color: #1fdd98;
+    color: black;
+}
+img{
+    width: 10%;
+}
+<body>
+      <div>
+           <img src="pic/hello kitty.png" alt = "Hello Kitty">
+      </div>
+</body>
